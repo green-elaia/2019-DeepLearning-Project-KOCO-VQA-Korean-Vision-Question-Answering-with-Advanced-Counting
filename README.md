@@ -1,4 +1,4 @@
-![KOCO VQA](/포스터.PNG){: width="100%" height="100%"}KOCO VQA 
+![KOCO VQA](/포스터.PNG)
 
 <br/>
 
