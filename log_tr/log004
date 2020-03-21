@@ -1,0 +1,20 @@
+will save to logs/2019-11-04_00:09:21.pth
+start loader...
+Traceback (most recent call last):
+  File "train.py", line 171, in <module>
+    main()
+  File "train.py", line 113, in main
+    train_loader = data.get_loader(train=True)
+  File "/home/ryan/counting/vqa-v2/data.py", line 28, in get_loader
+    dummy_answers=test,
+  File "/home/ryan/counting/vqa-v2/data.py", line 52, in __init__
+    questions_json = json.load(fd)
+  File "/usr/lib/python3.6/json/__init__.py", line 299, in load
+    parse_constant=parse_constant, object_pairs_hook=object_pairs_hook, **kw)
+  File "/usr/lib/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.6/json/decoder.py", line 355, in raw_decode
+    obj, end = self.scan_once(s, idx)
+KeyboardInterrupt

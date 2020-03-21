@@ -1,0 +1,584 @@
+train E000:   0% 0/3397 [00:00<?, ?it/s]will save to logs/2019-11-03_22:34:27.pth
+start loader...
+start net / optimizer / scheduler...
+start training...
+/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/nn/functional.py:1351: UserWarning: nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.
+  warnings.warn("nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.")
+/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/optim/lr_scheduler.py:100: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule.See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  "https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate", UserWarning)
+train E000:   0% 0/3397 [00:57<?, ?it/s, acc=0.0000, loss=7.8778]train E000:   0% 1/3397 [00:57<54:02:46, 57.29s/it, acc=0.0000, loss=7.8778]train E000:   0% 1/3397 [00:57<54:07:27, 57.38s/it, acc=0.0000, loss=7.8768]train E000:   0% 1/3397 [00:57<54:10:48, 57.43s/it, acc=0.0001, loss=7.8752]train E000:   0% 3/3397 [00:57<18:02:58, 19.14s/it, acc=0.0001, loss=7.8752]train E000:   0% 3/3397 [00:57<18:04:03, 19.16s/it, acc=0.0001, loss=7.8719]train E000:   0% 3/3397 [00:57<18:05:11, 19.18s/it, acc=0.0002, loss=7.8709]train E000:   0% 5/3397 [00:57<10:50:43, 11.51s/it, acc=0.0002, loss=7.8709]train E000:   0% 5/3397 [00:57<10:51:24, 11.52s/it, acc=0.0005, loss=7.8683]train E000:   0% 5/3397 [00:57<10:52:04, 11.53s/it, acc=0.0007, loss=7.8667]train E000:   0% 7/3397 [00:57<7:45:29,  8.24s/it, acc=0.0007, loss=7.8667] train E000:   0% 7/3397 [00:57<7:45:57,  8.25s/it, acc=0.0014, loss=7.8607]train E000:   0% 7/3397 [00:57<7:46:26,  8.26s/it, acc=0.0026, loss=7.8577]train E000:   0% 9/3397 [00:57<6:02:34,  6.42s/it, acc=0.0026, loss=7.8577]train E000:   0% 9/3397 [00:57<6:02:57,  6.43s/it, acc=0.0038, loss=7.8524]train E000:   0% 9/3397 [00:57<6:03:19,  6.43s/it, acc=0.0051, loss=7.8445]train E000:   0% 11/3397 [00:57<4:57:05,  5.26s/it, acc=0.0051, loss=7.8445]train E000:   0% 11/3397 [00:57<4:57:23,  5.27s/it, acc=0.0062, loss=7.8365]train E000:   0% 11/3397 [00:58<4:57:42,  5.28s/it, acc=0.0075, loss=7.8286]train E000:   0% 13/3397 [00:58<4:11:45,  4.46s/it, acc=0.0075, loss=7.8286]train E000:   0% 13/3397 [00:58<4:12:00,  4.47s/it, acc=0.0085, loss=7.8222]train E000:   0% 13/3397 [00:58<4:12:15,  4.47s/it, acc=0.0094, loss=7.8182]train E000:   0% 15/3397 [00:58<3:38:30,  3.88s/it, acc=0.0094, loss=7.8182]I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])train E000:   0% 15/3397 [00:58<3:38:43,  3.88s/it, acc=0.0105, loss=7.8141]train E000:   0% 15/3397 [01:10<4:24:11,  4.69s/it, acc=0.0105, loss=7.8141]train E000:   0% 15/3397 [01:21<5:07:00,  5.45s/it, acc=0.0114, loss=7.8097]train E000:   1% 17/3397 [01:21<4:30:43,  4.81s/it, acc=0.0114, loss=7.8097]train E000:   1% 17/3397 [01:21<4:30:57,  4.81s/it, acc=0.0123, loss=7.8020]train E000:   1% 17/3397 [01:21<4:31:09,  4.81s/it, acc=0.0135, loss=7.7938]train E000:   1% 19/3397 [01:21<4:02:28,  4.31s/it, acc=0.0135, loss=7.7938]train E000:   1% 19/3397 [01:21<4:02:39,  4.31s/it, acc=0.0147, loss=7.7884]train E000:   1% 19/3397 [01:21<4:02:51,  4.31s/it, acc=0.0159, loss=7.7841]train E000:   1% 21/3397 [01:21<3:39:35,  3.90s/it, acc=0.0159, loss=7.7841]train E000:   1% 21/3397 [01:22<3:39:45,  3.91s/it, acc=0.0177, loss=7.7713]train E000:   1% 21/3397 [01:22<3:39:55,  3.91s/it, acc=0.0193, loss=7.7640]train E000:   1% 23/3397 [01:22<3:20:40,  3.57s/it, acc=0.0193, loss=7.7640]train E000:   1% 23/3397 [01:22<3:20:49,  3.57s/it, acc=0.0206, loss=7.7530]train E000:   1% 23/3397 [01:22<3:20:58,  3.57s/it, acc=0.0224, loss=7.7420]train E000:   1% 25/3397 [01:22<3:04:47,  3.29s/it, acc=0.0224, loss=7.7420]train E000:   1% 25/3397 [01:22<3:04:55,  3.29s/it, acc=0.0237, loss=7.7343]train E000:   1% 25/3397 [01:22<3:05:03,  3.29s/it, acc=0.0246, loss=7.7268]train E000:   1% 27/3397 [01:22<2:51:14,  3.05s/it, acc=0.0246, loss=7.7268]train E000:   1% 27/3397 [01:22<2:51:22,  3.05s/it, acc=0.0262, loss=7.7138]train E000:   1% 27/3397 [01:22<2:51:30,  3.05s/it, acc=0.0275, loss=7.7017]train E000:   1% 29/3397 [01:22<2:39:34,  2.84s/it, acc=0.0275, loss=7.7017]train E000:   1% 29/3397 [01:22<2:39:41,  2.84s/it, acc=0.0284, loss=7.6953]train E000:   1% 29/3397 [01:22<2:39:48,  2.85s/it, acc=0.0294, loss=7.6881]train E000:   1% 31/3397 [01:22<2:29:24,  2.66s/it, acc=0.0294, loss=7.6881]
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])train E000:   1% 31/3397 [01:22<2:29:31,  2.67s/it, acc=0.0309, loss=7.6762]train E000:   1% 31/3397 [01:38<2:57:45,  3.17s/it, acc=0.0325, loss=7.6618]train E000:   1% 33/3397 [01:38<2:46:53,  2.98s/it, acc=0.0325, loss=7.6618]train E000:   1% 33/3397 [01:46<3:00:10,  3.21s/it, acc=0.0332, loss=7.6531]train E000:   1% 34/3397 [01:46<2:54:49,  3.12s/it, acc=0.0332, loss=7.6531]train E000:   1% 34/3397 [01:49<3:00:22,  3.22s/it, acc=0.0343, loss=7.6426]train E000:   1% 35/3397 [01:49<2:55:10,  3.13s/it, acc=0.0343, loss=7.6426]train E000:   1% 35/3397 [01:49<2:55:19,  3.13s/it, acc=0.0351, loss=7.6347]train E000:   1% 35/3397 [01:49<2:55:27,  3.13s/it, acc=0.0361, loss=7.6255]train E000:   1% 37/3397 [01:49<2:45:52,  2.96s/it, acc=0.0361, loss=7.6255]train E000:   1% 37/3397 [01:49<2:45:58,  2.96s/it, acc=0.0370, loss=7.6174]train E000:   1% 37/3397 [01:49<2:46:03,  2.97s/it, acc=0.0377, loss=7.6067]train E000:   1% 39/3397 [01:49<2:37:27,  2.81s/it, acc=0.0377, loss=7.6067]train E000:   1% 39/3397 [01:49<2:37:32,  2.82s/it, acc=0.0385, loss=7.5996]train E000:   1% 39/3397 [01:49<2:37:38,  2.82s/it, acc=0.0400, loss=7.5923]train E000:   1% 41/3397 [01:49<2:29:51,  2.68s/it, acc=0.0400, loss=7.5923]train E000:   1% 41/3397 [01:49<2:29:56,  2.68s/it, acc=0.0412, loss=7.5820]train E000:   1% 41/3397 [01:49<2:30:01,  2.68s/it, acc=0.0424, loss=7.5730]train E000:   1% 43/3397 [01:49<2:22:58,  2.56s/it, acc=0.0424, loss=7.5730]train E000:   1% 43/3397 [01:50<2:23:02,  2.56s/it, acc=0.0434, loss=7.5664]train E000:   1% 43/3397 [01:50<2:23:07,  2.56s/it, acc=0.0449, loss=7.5556]train E000:   1% 45/3397 [01:50<2:16:40,  2.45s/it, acc=0.0449, loss=7.5556]train E000:   1% 45/3397 [01:50<2:16:45,  2.45s/it, acc=0.0469, loss=7.5421]
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim : train E000:   1% 45/3397 [01:50<2:16:50,  2.45s/it, acc=0.0484, loss=7.5328]train E000:   1% 47/3397 [01:50<2:10:56,  2.35s/it, acc=0.0484, loss=7.5328]train E000:   1% 47/3397 [01:50<2:11:00,  2.35s/it, acc=0.0504, loss=7.5195]train E000:   1% 47/3397 [02:00<2:23:12,  2.57s/it, acc=0.0504, loss=7.5195] torch.Size([128, 3, 1, 100])
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+att2 x2 dim :  torch.Size([128, 3, 1, 100])
+Traceback (most recent call last):
+  File "train.py", line 171, in <module>
+    main()
+  File "train.py", line 133, in main
+    run(net, train_loader, optimizer, scheduler, tracker, train=True, prefix='train', epoch=i)
+  File "train.py", line 39, in run
+    for v, q, a, b, idx, q_len in loader:
+  File "/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/tqdm/_tqdm.py", line 949, in __iter__
+    for obj in iterable:
+  File "/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/utils/data/dataloader.py", line 804, in __next__
+    idx, data = self._get_data()
+  File "/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/utils/data/dataloader.py", line 761, in _get_data
+    success, data = self._try_get_data()
+  File "/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/utils/data/dataloader.py", line 724, in _try_get_data
+    data = self._data_queue.get(timeout=timeout)
+  File "/usr/lib/python3.6/queue.py", line 173, in get
+    self.not_empty.wait(remaining)
+  File "/usr/lib/python3.6/threading.py", line 299, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.6/threading.py", line 864, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/utils/data/_utils/pin_memory.py", line 25, in _pin_memory_loop
+    r = in_queue.get(timeout=MP_STATUS_CHECK_INTERVAL)
+  File "/usr/lib/python3.6/multiprocessing/queues.py", line 113, in get
+    return _ForkingPickler.loads(res)
+  File "/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/multiprocessing/reductions.py", line 294, in rebuild_storage_fd
+    fd = df.detach()
+  File "/usr/lib/python3.6/multiprocessing/resource_sharer.py", line 57, in detach
+    with _resource_sharer.get_connection(self._id) as conn:
+  File "/usr/lib/python3.6/multiprocessing/resource_sharer.py", line 87, in get_connection
+    c = Client(address, authkey=process.current_process().authkey)
+  File "/usr/lib/python3.6/multiprocessing/connection.py", line 493, in Client
+    answer_challenge(c, authkey)
+  File "/usr/lib/python3.6/multiprocessing/connection.py", line 732, in answer_challenge
+    message = connection.recv_bytes(256)         # reject large message
+  File "/usr/lib/python3.6/multiprocessing/connection.py", line 216, in recv_bytes
+    buf = self._recv_bytes(maxlength)
+  File "/usr/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/usr/lib/python3.6/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+ConnectionResetError: [Errno 104] Connection reset by peer
+

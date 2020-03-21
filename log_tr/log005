@@ -1,0 +1,1816 @@
+train E000:   0% 0/3397 [00:00<?, ?it/s]will save to logs/2019-11-04_00:09:25.pth
+start loader...
+start net / optimizer / scheduler...
+start training...
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([1024, 1, 100])
+y[i] shape :  torch.Size([1024, 1, 100])
+mfh x[0] :  torch.Size([1024, 1, 100])
+mfh x[1] :  torch.Size([1024, 1, 100])
+
+
+fusion unit :  torch.Size([1024, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/nn/functional.py:1351: UserWarning: nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.
+  warnings.warn("nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.")
+
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+x[i] shape :  torch.Size([512, 1, 100])
+y[i] shape :  torch.Size([512, 1, 100])
+mfh x[0] :  torch.Size([512, 1, 100])
+mfh x[1] :  torch.Size([512, 1, 100])
+
+
+fusion unit :  torch.Size([512, 1, 100])
+Traceback (most recent call last):
+  File "train.py", line 171, in <module>
+    main()
+  File "train.py", line 133, in main
+    run(net, train_loader, optimizer, scheduler, tracker, train=True, prefix='train', epoch=i)
+  File "train.py", line 50, in run
+    out = net(v, b, q, q_len)
+  File "/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/nn/modules/module.py", line 541, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/ryan/counting/vqa-v2/model.py", line 74, in forward
+    answer = self.classifier(v, q, count)
+  File "/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/nn/modules/module.py", line 541, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/ryan/counting/vqa-v2/model.py", line 197, in forward
+    x = self.fusion( [self.lin11(self.drop(x)), self.lin12(self.drop(y))], self.f_feature)
+  File "/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/nn/modules/module.py", line 541, in __call__
+    result = self.forward(*input, **kwargs)
+TypeError: forward() missing 1 required positional argument: 'feature'

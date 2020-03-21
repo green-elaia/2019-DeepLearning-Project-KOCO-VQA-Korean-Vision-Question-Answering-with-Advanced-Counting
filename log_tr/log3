@@ -1,0 +1,30 @@
+train E000:   0% 0/3397 [00:00<?, ?it/s]will save to logs/2019-11-03_02:17:46.pth
+start loader...
+start net / optimizer / scheduler...
+start training...
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+Traceback (most recent call last):
+  File "train.py", line 171, in <module>
+    main()
+  File "train.py", line 133, in main
+    run(net, train_loader, optimizer, scheduler, tracker, train=True, prefix='train', epoch=i)
+  File "train.py", line 50, in run
+    out = net(v, b, q, q_len)
+  File "/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/nn/modules/module.py", line 541, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/ryan/counting/vqa-v2/model.py", line 65, in forward
+    a = self.attention(v, q) # stacked attention
+  File "/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/nn/modules/module.py", line 541, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/ryan/counting/vqa-v2/model.py", line 267, in forward
+    f1 = tile_2d_over_nd(f1, x)
+  File "/home/ryan/counting/vqa-v2/model.py", line 345, in tile_2d_over_nd
+    tiled = feature_vector.view(n, c, *([1] * len(spatial_sizes))).expand(n, c, *spatial_sizes)
+RuntimeError: shape '[128, 1024, 1, 1]' is invalid for input of size 13107200

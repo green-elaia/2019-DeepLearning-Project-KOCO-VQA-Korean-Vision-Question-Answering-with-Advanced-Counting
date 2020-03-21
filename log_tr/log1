@@ -1,0 +1,16 @@
+will save to logs/2019-11-03_01:38:53.pth
+start loader...
+Traceback (most recent call last):
+  File "train.py", line 171, in <module>
+    main()
+  File "train.py", line 115, in main
+    val_loader = data.get_loader(val=True)
+  File "/home/ryan/counting/vqa-v2/data.py", line 28, in get_loader
+    dummy_answers=test,
+  File "/home/ryan/counting/vqa-v2/data.py", line 72, in __init__
+    self.answers = [self._encode_answers(a) for a in self.answers]
+  File "/home/ryan/counting/vqa-v2/data.py", line 72, in <listcomp>
+    self.answers = [self._encode_answers(a) for a in self.answers]
+  File "/home/ryan/counting/vqa-v2/data.py", line 142, in _encode_answers
+    answer_vec[index] += 1
+KeyboardInterrupt

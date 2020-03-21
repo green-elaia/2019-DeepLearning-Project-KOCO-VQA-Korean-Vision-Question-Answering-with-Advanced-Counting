@@ -1,0 +1,36 @@
+train E000:   0% 0/3397 [00:00<?, ?it/s]will save to logs/2019-11-03_22:13:35.pth
+start loader...
+start net / optimizer / scheduler...
+start training...
+I am att 2!! Ya Hoo!!!
+att1 v dim :  torch.Size([128, 2048, 1, 100])
+att1 q dim :  torch.Size([128, 1024])
+att1 after v dim :  torch.Size([128, 1024, 1, 100])
+att1 after q dim :  torch.Size([128, 1024])
+att1 q tile dim :  torch.Size([128, 1024, 1, 100])
+att1 fusion f1 type :  torch.cuda.FloatTensor  shape :  torch.Size([128, 1024, 1, 100])
+att2 x dim :  torch.Size([128, 512, 1, 100])
+att2 f1 tile :  torch.Size([128, 512, 1, 100])
+att2 f2 dim :  torch.Size([128, 512, 1, 100])
+Traceback (most recent call last):
+  File "train.py", line 171, in <module>
+    main()
+  File "train.py", line 133, in main
+    run(net, train_loader, optimizer, scheduler, tracker, train=True, prefix='train', epoch=i)
+  File "train.py", line 50, in run
+    out = net(v, b, q, q_len)
+  File "/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/nn/modules/module.py", line 541, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/ryan/counting/vqa-v2/model.py", line 65, in forward
+    a = self.attention(v, q) # stacked attention
+  File "/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/nn/modules/module.py", line 541, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/ryan/counting/vqa-v2/model.py", line 272, in forward
+    x2 = self.scnd_x_conv(self.drop(f2))
+  File "/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/nn/modules/module.py", line 541, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/nn/modules/conv.py", line 345, in forward
+    return self.conv2d_forward(input, self.weight)
+  File "/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/nn/modules/conv.py", line 342, in conv2d_forward
+    self.padding, self.dilation, self.groups)
+RuntimeError: Given groups=1, weight of size 3 256 1 1, expected input[128, 512, 1, 100] to have 256 channels, but got 512 channels instead

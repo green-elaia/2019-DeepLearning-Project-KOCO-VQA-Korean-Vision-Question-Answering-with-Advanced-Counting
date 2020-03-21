@@ -1,0 +1,34 @@
+train E000:   0% 0/3397 [00:00<?, ?it/s]will save to logs/2019-11-03_23:39:58.pth
+start loader...
+start net / optimizer / scheduler...
+start training...
+Traceback (most recent call last):
+  File "train.py", line 171, in <module>
+    main()
+  File "train.py", line 133, in main
+    run(net, train_loader, optimizer, scheduler, tracker, train=True, prefix='train', epoch=i)
+  File "train.py", line 50, in run
+    out = net(v, b, q, q_len)
+  File "/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/nn/modules/module.py", line 541, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/ryan/counting/vqa-v2/model.py", line 65, in forward
+    a = self.attention(v, q) # stacked attention
+  File "/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/nn/modules/module.py", line 541, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/ryan/counting/vqa-v2/model.py", line 285, in forward
+    f1 = self.fusion1(v, q, self.f1_feature)
+  File "/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/nn/modules/module.py", line 541, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/ryan/counting/vqa-v2/model.py", line 90, in forward
+    fusion_unit = (self.mfh([x[i],y[i]])).view(feature,1, -1)
+  File "/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/nn/modules/module.py", line 541, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/ryan/counting/vqa-v2/model.py", line 470, in forward
+    x0 = self.linear0_0(x[0])
+  File "/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/nn/modules/module.py", line 541, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/nn/modules/linear.py", line 87, in forward
+    return F.linear(input, self.weight, self.bias)
+  File "/home/ryan/.virtualenvs/count/lib/python3.6/site-packages/torch/nn/functional.py", line 1372, in linear
+    output = input.matmul(weight.t())
+RuntimeError: size mismatch, m1: [1024 x 100], m2: [1024 x 2400] at /pytorch/aten/src/THC/generic/THCTensorMathBlas.cu:290
