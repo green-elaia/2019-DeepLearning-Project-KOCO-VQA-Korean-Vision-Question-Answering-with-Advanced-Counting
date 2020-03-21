@@ -1,5 +1,7 @@
 ![KOCO VQA](/포스터.PNG){: width="100%" height="100%"}
 
+
+
 <br/>
 
 ### 느낀점
@@ -12,7 +14,7 @@
 
 프로젝트 내용을 논문으로 작성해 IEEE에 제출해보기도 했지만 아쉽게도 accept이 되지는 않았다. 그래도 세계적인 저널이 요구하는 포맷에 맞춰 논문을 작성해 볼 수 있었던 좋은 기회였다. 아래는 논문을 작성하며 참고했던 논문 리스트이다.
 
-<p></p>
+<br/>
 
 [1]   Antol, Stanislaw, et al. "Vqa: Visual question answering." *Proceedings of the IEEE international conference on computer vision*. 2015.
 
