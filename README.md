@@ -1,3 +1,5 @@
+# 2019-DeepLearning-Project-KOCO-VQA-Korean-Vision-Question-Answering-with-Advanced-Counting
+
 본 프로젝트는 VQA(Vision Question Answering)라는 딥러닝 세부분야와 관련된 프로젝트 입니다.
 
 VQA는 multi modal problem으로서 computer vision과 natural language을 동시에 다룹니다.
